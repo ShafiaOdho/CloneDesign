@@ -1,16 +1,24 @@
 {
+<<<<<<< HEAD
   "name": "vite_react_shadcn_ts",
+=======
+  "name": "hee",
+>>>>>>> 7afc16cdc2603818b83a1df40c910915b6945f61
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+<<<<<<< HEAD
     "build:dev": "vite build --mode development",
+=======
+>>>>>>> 7afc16cdc2603818b83a1df40c910915b6945f61
     "lint": "eslint .",
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
     "@hookform/resolvers": "^3.9.0",
     "@radix-ui/react-accordion": "^1.2.0",
     "@radix-ui/react-alert-dialog": "^1.1.1",
@@ -79,5 +87,25 @@
     "typescript": "^5.5.3",
     "typescript-eslint": "^8.0.1",
     "vite": "^5.4.1"
+=======
+    "@tailwindcss/cli": "^4.1.11",
+    "@tailwindcss/vite": "^4.1.11",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-router-dom": "^7.7.0",
+    "tailwindcss": "^4.1.11"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.30.1",
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "^19.1.6",
+    "@vitejs/plugin-react": "^4.6.0",
+    "daisyui": "^5.0.46",
+    "eslint": "^9.30.1",
+    "eslint-plugin-react-hooks": "^5.2.0",
+    "eslint-plugin-react-refresh": "^0.4.20",
+    "globals": "^16.3.0",
+    "vite": "^7.0.4"
+>>>>>>> 7afc16cdc2603818b83a1df40c910915b6945f61
   }
 }
